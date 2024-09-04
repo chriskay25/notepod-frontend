@@ -18,7 +18,7 @@ Follow these instructions to get a copy of the frontend up and running on your l
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/chriskay/notepod-frontend.git
+git clone https://github.com/chriskay25/notepod-frontend.git
 cd notepod-frontend
 ```
 
